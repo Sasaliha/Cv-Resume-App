@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef574aa9-b5a4-4d0c-950c-e7614d7f814a/resourceGroups/nodejs-cvresume/providers/Microsoft.Web/sites/AppServiceQS-rg",
+    "appService.deploySubpath": "."
+}
